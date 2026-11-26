@@ -8,7 +8,7 @@ My favourite sport is either *skateboarding* or ~~rock climbing~~ **bouldering**
 
 My favourite foods are:
 1. Duck pancakes
-2. Sheftalies
+2. Sheftalias
 3. Doner kebab
 
 ```python
